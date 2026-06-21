@@ -1,16 +1,64 @@
-## Hi there 👋
+```markdown
+# مرحبًا 👋، أنا محمد قنان  
+**AI Security Engineer & Full-Stack Developer**  
+*أُحوِّل التهديدات إلى فرص، وأُصمِّم أنظمة ذكاء اصطناعي جديرة بالثقة.*
 
-<!--
-**mohammed-dev-stack/mohammed-dev-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 **من أنا؟**
+مهندس أمن ذكاء اصطناعي ومطور كامل المكدس، أؤمن بأن **الذكاء الاصطناعي الموثوق** ليس رفاهية، بل ضرورة.  
+أعمل على تقاطع **الأمن السيبراني** و **هندسة البرمجيات**، لأقدّم حلولًا ذكية، آمنة، وقابلة للتطوير.  
+رؤيتي: **بناء أنظمة ذكاء اصطناعي صامدة أمام الهجمات، وشفافة للمستخدمين**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ **الخبرات التقنية – مع القيمة المضافة**
+
+| المجال | التقنيات | القيمة التي أقدمها |
+|--------|-----------|----------------------|
+| **تطوير الويب المتقدم** | `Next.js 15` • `React 19` • `TypeScript` • `Node.js` | أكتب **كودًا قويًا ومُحكَمًا** مع أنماط تصميم متقدمة، وأُطبق مبادئ الـ **Clean Architecture** لضمان سهولة الصيانة والتوسع. |
+| **أمن التطبيقات (AppSec)** | `SQLi` • `XSS` • `CSRF` • `Security Headers` | أُدمج الأمن في دورة التطوير (DevSecOps)، وأُجري **مراجعات أمنية استباقية** للكود، وأحمي الواجهات من الهجمات الأكثر شيوعًا. |
+| **أمن الذكاء الاصطناعي** | `Prompt Injection` • `Data Poisoning` • `Model Extraction` • `Guardrails` | أُصمم **دروعًا أمنية (Guardrails)** للنماذج اللغوية، وأُقيِّم نقاط الضعف الخاصة بـ AI، وأُطبِّق سياسات تحكم دقيقة لمنع الاستخدام الضار. |
+| **أدوات الجودة** | `ESLint` • `Prettier` • `Husky` • `Jest` • `Playwright` | أفرض جودة الكود عبر الاختبارات الآلية، وأضمن استقرار التطبيقات من خلال **التكامل المستمر والاختبار الشامل**. |
+
+---
+
+### 📦 **مشاريع بارزة (Proof of Work)**
+
+#### 🔹 [**Mansati** – شبكة اجتماعية متكاملة](https://github.com/yourusername/mansati)  
+> منصة تواصل اجتماعي **كاملة المكدس**، صُمِّمت بمعمارية نظيفة باستخدام Next.js 15 و TypeScript، مع نظام مصادقة متقدم (JWT + Refresh Tokens)، وقاعدة بيانات PostgreSQL، ونظام إشعارات لحظي.  
+> **الأهم**: طُبِّقت طبقات أمنية على مستوى الـ API والـ Middleware، مما يجعلها بيئة آمنة للمستخدمين.
+
+#### 🔹 [**AI Guardrail Agent** – درع أمان للنماذج اللغوية](https://github.com/yourusername/ai-guardrail)  
+> أداة ذكية تعمل كـ **وسيط أمني** بين المستخدم ونماذج LLM. تكتشف محاولات الحقن (Prompt Injection)، وتصنف المحتوى الخطير، وتُطبِّق سياسات الرفض التلقائي. صُمِّمت لتُدمج مع أي تطبيق يستخدم واجهات OpenAI أو Anthropic.
+
+---
+
+### 🎯 **التركيز الحالي (Current Focus)**
+- 🛡️ تطوير **إطار عمل مفتوح المصدر لتقييم أمن نماذج اللغة** (LLM Security Benchmark).
+- 🔐 بناء **مكتبة JavaScript لإدارة السياسات الأمنية** في تطبيقات Next.js.
+- 📘 كتابة سلسلة مقالات تقنية عن **أمن الذكاء الاصطناعي التطبيقي** (قريبًا على مدونتي).
+- 🚀 المشاركة في مجتمع OWASP للذكاء الاصطناعي، والمساهمة في مشروع **OWASP Top 10 for LLMs**.
+
+---
+
+### 📊 **إحصائيات النشاط**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%" />
+</p>
+
+---
+
+### 💬 **تواصل معي**
+- **البريد الإلكتروني:** m.qannan@example.com  
+- **لينكد إن:** [linkedin.com/in/mohammedqannan](https://linkedin.com/in/mohammedqannan)  
+- **تويتر (X):** [@m_qannan](https://twitter.com/m_qannan)  
+- **المدونة التقنية:** [قيد الإنشاء – قريبًا]
+
+---
+
+> *"الأمان ليس ميزة إضافية، بل هو جزء لا يتجزأ من التصميم."*  
+> – محمد قنن
+```
