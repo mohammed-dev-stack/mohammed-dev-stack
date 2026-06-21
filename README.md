@@ -1,64 +1,106 @@
 ```markdown
-# مرحبًا 👋، أنا محمد قنان  
-**AI Security Engineer & Full-Stack Developer**  
-*أُحوِّل التهديدات إلى فرص، وأُصمِّم أنظمة ذكاء اصطناعي جديرة بالثقة.*
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2A9D8F&center=true&vCenter=true&width=500&lines=Mohammed+Qannan;AI+Security+Engineer;Full-Stack+Architect;Zero-Trust+Advocate" alt="Typing SVG" />
+  <br><br>
+  <p>
+    <img src="https://img.shields.io/badge/Focus-AI_Security-red?style=for-the-badge&labelColor=1e1e2e&color=ef4444" />
+    <img src="https://img.shields.io/badge/Stack-Full_Stack_Architect-blue?style=for-the-badge&labelColor=1e1e2e&color=3b82f6" />
+    <img src="https://img.shields.io/badge/Mission-Zero_Trust_AI-green?style=for-the-badge&labelColor=1e1e2e&color=22c55e" />
+  </p>
+</div>
 
 ---
 
-### 🧠 **من أنا؟**
-مهندس أمن ذكاء اصطناعي ومطور كامل المكدس، أؤمن بأن **الذكاء الاصطناعي الموثوق** ليس رفاهية، بل ضرورة.  
-أعمل على تقاطع **الأمن السيبراني** و **هندسة البرمجيات**، لأقدّم حلولًا ذكية، آمنة، وقابلة للتطوير.  
-رؤيتي: **بناء أنظمة ذكاء اصطناعي صامدة أمام الهجمات، وشفافة للمستخدمين**.
+### 🧬 The Engineer
+
+Architecting the intersection of **secure systems** and **intelligent automation**.  
+I engineer full-stack applications with a **security-first** DNA, embedding adversarial robustness directly into the software development lifecycle (SDLC). My work ensures that AI-driven platforms are not only performant and scalable, but also inherently resistant to manipulation, data exfiltration, and prompt-based attacks.
 
 ---
 
-### ⚡ **الخبرات التقنية – مع القيمة المضافة**
+### ⚙️ Technical Arsenal — *Value-Driven*
 
-| المجال | التقنيات | القيمة التي أقدمها |
-|--------|-----------|----------------------|
-| **تطوير الويب المتقدم** | `Next.js 15` • `React 19` • `TypeScript` • `Node.js` | أكتب **كودًا قويًا ومُحكَمًا** مع أنماط تصميم متقدمة، وأُطبق مبادئ الـ **Clean Architecture** لضمان سهولة الصيانة والتوسع. |
-| **أمن التطبيقات (AppSec)** | `SQLi` • `XSS` • `CSRF` • `Security Headers` | أُدمج الأمن في دورة التطوير (DevSecOps)، وأُجري **مراجعات أمنية استباقية** للكود، وأحمي الواجهات من الهجمات الأكثر شيوعًا. |
-| **أمن الذكاء الاصطناعي** | `Prompt Injection` • `Data Poisoning` • `Model Extraction` • `Guardrails` | أُصمم **دروعًا أمنية (Guardrails)** للنماذج اللغوية، وأُقيِّم نقاط الضعف الخاصة بـ AI، وأُطبِّق سياسات تحكم دقيقة لمنع الاستخدام الضار. |
-| **أدوات الجودة** | `ESLint` • `Prettier` • `Husky` • `Jest` • `Playwright` | أفرض جودة الكود عبر الاختبارات الآلية، وأضمن استقرار التطبيقات من خلال **التكامل المستمر والاختبار الشامل**. |
-
----
-
-### 📦 **مشاريع بارزة (Proof of Work)**
-
-#### 🔹 [**Mansati** – شبكة اجتماعية متكاملة](https://github.com/yourusername/mansati)  
-> منصة تواصل اجتماعي **كاملة المكدس**، صُمِّمت بمعمارية نظيفة باستخدام Next.js 15 و TypeScript، مع نظام مصادقة متقدم (JWT + Refresh Tokens)، وقاعدة بيانات PostgreSQL، ونظام إشعارات لحظي.  
-> **الأهم**: طُبِّقت طبقات أمنية على مستوى الـ API والـ Middleware، مما يجعلها بيئة آمنة للمستخدمين.
-
-#### 🔹 [**AI Guardrail Agent** – درع أمان للنماذج اللغوية](https://github.com/yourusername/ai-guardrail)  
-> أداة ذكية تعمل كـ **وسيط أمني** بين المستخدم ونماذج LLM. تكتشف محاولات الحقن (Prompt Injection)، وتصنف المحتوى الخطير، وتُطبِّق سياسات الرفض التلقائي. صُمِّمت لتُدمج مع أي تطبيق يستخدم واجهات OpenAI أو Anthropic.
+| Domain | Core Technologies | Strategic Impact |
+| :--- | :--- | :--- |
+| **Frontend Architecture** | `Next.js 15` · `React 19` · `TypeScript` · `Tailwind` | Architecting **isomorphic, type-safe** interfaces with strict CSP (Content Security Policy) headers to eliminate XSS vectors before they reach production. |
+| **Backend & Infra** | `Node.js` · `Express` · `PostgreSQL` · `Redis` · `Docker` | Building **defensive, stateless** microservices with rate-limiting, input sanitization, and parameterized queries to fortify against SQLi and brute-force attempts. |
+| **AI & ML Ops** | `LangChain` · `Ollama` · `HuggingFace` · `OpenAI API` | Integrating **retrieval-augmented generation (RAG)** with strict output validation and context-aware guardrails to prevent hallucinations and data leakage. |
+| **Security Tooling** | `OWASP ZAP` · `Burp Suite` · `Snyk` · `Trivy` · `Wireshark` | Implementing **continuous security testing** (SAST/DAST) and runtime application self-protection (RASP) to identify and neutralize zero-day threats in CI/CD pipelines. |
 
 ---
 
-### 🎯 **التركيز الحالي (Current Focus)**
-- 🛡️ تطوير **إطار عمل مفتوح المصدر لتقييم أمن نماذج اللغة** (LLM Security Benchmark).
-- 🔐 بناء **مكتبة JavaScript لإدارة السياسات الأمنية** في تطبيقات Next.js.
-- 📘 كتابة سلسلة مقالات تقنية عن **أمن الذكاء الاصطناعي التطبيقي** (قريبًا على مدونتي).
-- 🚀 المشاركة في مجتمع OWASP للذكاء الاصطناعي، والمساهمة في مشروع **OWASP Top 10 for LLMs**.
+### 📦 Featured Proof of Work
+
+> *Active, production-grade repositories demonstrating my security-first development philosophy.*
+
+<br>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ AI Guardrail Agent</h3>
+      <p align="center">
+        <a href="https://github.com/mohammed-dev-stack/ai-guardrail-agent" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammed-dev-stack&repo=ai-guardrail-agent&theme=radical&hide_border=true" />
+        </a>
+        <br>
+        <em>A runtime security middleware for LLMs.</em><br>
+        <strong>Detects prompt injections</strong>, enforces <strong>semantic output filters</strong>, and implements <strong>contextual policy engines</strong> to dynamically block adversarial inputs before they reach the core model.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Mansati</h3>
+      <p align="center">
+        <a href="https://github.com/mohammed-dev-stack/mansati" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammed-dev-stack&repo=mansati&theme=radical&hide_border=true" />
+        </a>
+        <br>
+        <em>A full-stack social ecosystem.</em><br>
+        Features <strong>JWT with refresh rotation</strong>, <strong>CSRF double-submit cookies</strong>, advanced <strong>RBAC (Role-Based Access Control)</strong>, and real-time WebSocket channels secured with per-message encryption.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 **إحصائيات النشاط**
+### 📊 Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-dev-stack&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-dev-stack&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Languages" width="42%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed-dev-stack&theme=redical&hide_border=true&area=true&bg_color=0d1117&color=2a9d8f&line=ef4444&point=ffffff" alt="Contribution Graph" width="92%" />
 </p>
 
 ---
 
-### 💬 **تواصل معي**
-- **البريد الإلكتروني:** m.qannan@example.com  
-- **لينكد إن:** [linkedin.com/in/mohammedqannan](https://linkedin.com/in/mohammedqannan)  
-- **تويتر (X):** [@m_qannan](https://twitter.com/m_qannan)  
-- **المدونة التقنية:** [قيد الإنشاء – قريبًا]
+### 🔭 Current Strategic Focus
+
+- **Developing** an open-source *LLM Security Benchmarking Suite* to standardize adversarial testing across commercial models.
+- **Hardening** the authentication layer of Mansati by implementing WebAuthn (Passkeys) for phishing-resistant MFA.
+- **Researching** *post-quantum cryptographic signatures* for securing AI agent communication channels.
+- **Contributing** to the OWASP AI Security & Privacy Guide as a technical reviewer.
 
 ---
 
-> *"الأمان ليس ميزة إضافية، بل هو جزء لا يتجزأ من التصميم."*  
-> – محمد قنن
+### 🌐 Connect & Collaborate
+
+I actively engage with the security research and developer communities. Let’s build resilient AI together.
+
+<p align="center">
+  <a href="mailto:m.qannan@pm.me"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mohammedqannan"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/m_qannan"><img src="https://img.shields.io/badge/-X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://github.com/mohammed-dev-stack"><img src="https://img.shields.io/badge/-GitHub_Repos-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Security is not a layer—it is the architectural substrate upon which reliable AI is built.”</i><br>
+  <b>— Mohammed Qannan</b>
+</p>
 ```
