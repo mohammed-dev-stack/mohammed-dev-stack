@@ -14,18 +14,26 @@ I architect **resilient, secure, and intelligent systems**. My development philo
 
 ---
 
-### ⚙️ Technical Arsenal — *The Strategic Edge*
-
-| Domain | Core Technologies | The "Why" (Strategic Impact) |
-| :--- | :--- | :--- |
-| **Frontend** | Next.js 15, TypeScript | Building type-safe, **CSP-hardened** interfaces. |
-| **Backend** | Node.js, Express | Developing **stateless microservices** with strict input validation. |
-| **AI Security** | LLMs, LangChain, RAG | Implementing **adversarial guardrails** to prevent prompt injection. |
-| **DevSecOps** | Snyk, Trivy, ZAP | Automating **continuous security testing** in CI/CD pipelines. |
+### 🛠️ Advanced Technical Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-15-000000?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-Full_Stack-3178C6?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/AI_Security-Guardrails-FF4B4B?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Web_Security-OWASP-239120?style=for-the-badge&logo=owasp" />
+</p>
 
 ---
 
-### 📦 Deep-Dive Projects
+### 🗺️ Project Roadmap & Strategic Focus
+| Project | Status | Core Value Proposition |
+| :--- | :--- | :--- |
+| **Mansati** | Beta | Real-time Secure Social Network |
+| **AI Guardrail Agent** | Active | LLM Adversarial Robustness & Security |
+| **Smart Safe Lock** | Completed | Embedded Systems Security Integration |
+
+---
+
+### 📦 Deep-Dive Technical Insight
 
 <table width="100%">
   <tr>
@@ -46,25 +54,12 @@ I architect **resilient, secure, and intelligent systems**. My development philo
 
 ---
 
-### 📊 Engineering Impact
-
-![Stats](https://github-readme-stats.vercel.app/api?username=mohammed-dev-stack&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-dev-stack&layout=compact&theme=radical&hide_border=true)
-
-**Contribution Graph**
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammed-dev-stack&theme=radical&hide_border=true&area=true&bg_color=0d1117&color=2a9d8f&line=ef4444)
-
----
-
-### 🔭 Current Strategic Focus
-* **Developing** an open-source *LLM Security Benchmarking Suite*.
-* **Hardening** authentication layers using modern security standards.
-* **Contributing** as a technical reviewer for the **OWASP AI Security & Privacy Guide**.
+### 💡 The Engineer's Philosophy
+> "Security is not a feature added at the end; it is the fundamental architectural substrate upon which all reliable AI systems are built."
 
 ---
 
 ### 🌐 Connect & Collaborate
-
 I actively engage with the security research and developer communities. Let’s build resilient AI together.
 
 <p align="center">
@@ -73,8 +68,6 @@ I actively engage with the security research and developer communities. Let’s 
 </p>
 
 ---
-
 <p align="center">
-  <i>“Security is not a layer—it is the architectural substrate upon which reliable AI is built.”</i><br>
   <b>— Mohammed Qannan</b>
 </p>
